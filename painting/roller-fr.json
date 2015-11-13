@@ -1,0 +1,29 @@
+{
+	"title":"Peinture au rouleau",
+	"instructions":[
+	  {
+			"action":"custom",
+			"content":"Protéger les vêtements"
+		},
+		{
+			"action":"custom",
+			"content":"Idéalement, emmener l'objet à peindre, le carton pour la peinture, la peinture, le rouleau et le bac dehors ou dans la zone peinture"
+		},
+		{
+			"action":"custom",
+			"content":"Mettre le rouleau dans le bac avec la peinture et enlever la peinture de façon à ce que la peinture ne coule pas du rouleau"
+		},
+		{
+			"action":"custom",
+			"content":"Laisser reposer plusieurs heures"
+		},
+		{
+			"action":"custom",
+			"content":"Procéder à d'autres passages si nécessaire selon la même procédure"
+		},
+		{
+			"action":"custom",
+			"content":"Nettoyer tous les ustensiles (bac, rouleau et pinceau le cas échéant) avec du solvant ou de l'eau selon le type de peinture"
+		}
+	]
+}
