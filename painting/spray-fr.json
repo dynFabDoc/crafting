@@ -1,0 +1,29 @@
+{
+	"title":"Peinture à la bombe",
+	"instructions":[
+	  {
+			"action":"custom",
+			"content":"Mettre le masque et les gants"
+		},
+		{
+			"action":"custom",
+			"content":"Emmener l'objet à peindre, le carton pour la peinture et la bombe dehors"
+		},
+		{
+			"action":"custom",
+			"content":"Prendre une bombe tête vers le bas et secouer pendant 1 minute"
+		},
+		{
+			"action":"custom",
+			"content":"Diriger en direction de la partie à peindre et pulvériser de façon uniforme en faisant des gestes amples"
+		},
+		{
+			"action":"custom",
+			"content":"Laisser repose au minimum 15 minutes (à 1 heure)"
+		},
+		{
+			"action":"custom",
+			"content":"Procéder à d'autres pulvérisations si nécessaire selon la même procédure (avec le masque et les gants aussi)"
+		}
+	]
+}
